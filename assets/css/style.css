@@ -1,0 +1,17 @@
+.verde {
+    background-color: green;
+    height: 50px;
+    border: 1px solid white;
+}
+
+.amarillo {
+    background-color: orangered;
+    height: 50px;
+    border: 1px solid white;
+}
+
+.negro {
+    background-color: black;
+    height: 50px;
+    border: 1px solid white;
+}
